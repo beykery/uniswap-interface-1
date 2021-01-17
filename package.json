@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "http://beykery.github.io/uniswap-interface",
+  "homepage": "http://beykery.github.io/uniswap-interface-1",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",

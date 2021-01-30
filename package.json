@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": ".",
+  "homepage": "http://beykery.github.io/uniswap-interface-1",
   "private": true,
   "devDependencies": {
     "gh-pages": "^3.1.0",
@@ -119,5 +119,8 @@
       "last 1 safari version"
     ]
   },
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
 }
